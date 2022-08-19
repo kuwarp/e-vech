@@ -1,5 +1,6 @@
 {
   "name": "jain-auto",
+  "homepage":"https://kuwarp.github.io/e-vech/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
