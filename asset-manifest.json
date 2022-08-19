@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/e-vech/static/css/main.4107c037.chunk.css",
+    "main.js": "/e-vech/static/js/main.b1bed78a.chunk.js",
+    "main.js.map": "/e-vech/static/js/main.b1bed78a.chunk.js.map",
+    "runtime-main.js": "/e-vech/static/js/runtime-main.b6ed9690.js",
+    "runtime-main.js.map": "/e-vech/static/js/runtime-main.b6ed9690.js.map",
+    "static/css/2.f88c2240.chunk.css": "/e-vech/static/css/2.f88c2240.chunk.css",
+    "static/js/2.735e8335.chunk.js": "/e-vech/static/js/2.735e8335.chunk.js",
+    "static/js/2.735e8335.chunk.js.map": "/e-vech/static/js/2.735e8335.chunk.js.map",
+    "index.html": "/e-vech/index.html",
+    "static/css/2.f88c2240.chunk.css.map": "/e-vech/static/css/2.f88c2240.chunk.css.map",
+    "static/css/main.4107c037.chunk.css.map": "/e-vech/static/css/main.4107c037.chunk.css.map",
+    "static/js/2.735e8335.chunk.js.LICENSE.txt": "/e-vech/static/js/2.735e8335.chunk.js.LICENSE.txt",
+    "static/media/Aj-dark.b96613f1.jpg": "/e-vech/static/media/Aj-dark.b96613f1.jpg",
+    "static/media/bl01.3bf43b9f.png": "/e-vech/static/media/bl01.3bf43b9f.png",
+    "static/media/black01.3972401a.png": "/e-vech/static/media/black01.3972401a.png",
+    "static/media/dxf.16bb2cce.png": "/e-vech/static/media/dxf.16bb2cce.png",
+    "static/media/electric.a3d2d82d.jpg": "/e-vech/static/media/electric.a3d2d82d.jpg",
+    "static/media/ericka.47d474f6.jpg": "/e-vech/static/media/ericka.47d474f6.jpg",
+    "static/media/logo.ba30b456.png": "/e-vech/static/media/logo.ba30b456.png",
+    "static/media/neu-power.7abb6749.jpg": "/e-vech/static/media/neu-power.7abb6749.jpg",
+    "static/media/or01.49878850.png": "/e-vech/static/media/or01.49878850.png",
+    "static/media/phantom.315c1e12.jpg": "/e-vech/static/media/phantom.315c1e12.jpg",
+    "static/media/poppy.9ee7f658.jpg": "/e-vech/static/media/poppy.9ee7f658.jpg",
+    "static/media/red01.af0469ac.png": "/e-vech/static/media/red01.af0469ac.png",
+    "static/media/scr.65e32bfd.png": "/e-vech/static/media/scr.65e32bfd.png",
+    "static/media/silver01.1a6b3738.png": "/e-vech/static/media/silver01.1a6b3738.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6ed9690.js",
+    "static/css/2.f88c2240.chunk.css",
+    "static/js/2.735e8335.chunk.js",
+    "static/css/main.4107c037.chunk.css",
+    "static/js/main.b1bed78a.chunk.js"
+  ]
+}
