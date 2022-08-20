@@ -8,7 +8,6 @@
     display: flex;
     justify-content: flex-start;
     align-items: center;
-
     margin-right: 2rem;
 }
 
@@ -65,8 +64,8 @@
     }
 
     .jac__possibility-image img {
-        width: 18rem;
-        height: 18rem;
+        max-width: unset;
+        height: max-content;
     }
 
     .jac__possibility-content {
@@ -75,9 +74,9 @@
 }
 
 @media screen and (max-width: 700px) {
-    .gpt3__possibility-image img {
-        width: 10px;
-        height: 10px;
+    .jac__possibility-image img {
+        max-width: unset;
+        height: unset;
     }
 }
 

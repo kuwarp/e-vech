@@ -22,7 +22,6 @@ const Footer = () => (
         <p>jain Auto</p>
         <p>Stores</p>
         <p>e-vehicle</p>
-        {/* <p>Contact</p> */}
       </div>
       <div className="jac__footer-links_div">
         <h2>Company</h2>
