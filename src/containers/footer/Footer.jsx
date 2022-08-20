@@ -9,7 +9,7 @@ const Footer = () => (
     </div>
 
     <div className="jac__footer-btn">
-      <p>Book Your Slot Rapidly</p>
+      <a href=" "><p>Book Your Slot Rapidly</p></a>
     </div>
 
     <div className="jac__footer-links">
@@ -18,20 +18,20 @@ const Footer = () => (
         <p>partners with Yakuza electronic, <br /> All Rights Reserved to partnership</p>
       </div>
       <div className="jac__footer-links_div">
-        <h4>Touch Up</h4>
+        <h2>Touch Up</h2>
         <p>jain Auto</p>
         <p>Stores</p>
         <p>e-vehicle</p>
         {/* <p>Contact</p> */}
       </div>
       <div className="jac__footer-links_div">
-        <h4>Company</h4>
+        <h2>Company</h2>
         <a href=" "> <p>Terms and Conditions</p></a>
         <a href=" "> <p>Privacy Policy</p></a>
         <a href=" "> <p>contact</p></a>
       </div>
       <div className="jac__footer-links_div">
-        <h4>Touch on Social Media</h4>
+        <h2>Touch on Social Media</h2>
       </div>
     </div>
 

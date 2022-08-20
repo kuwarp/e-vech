@@ -11,7 +11,7 @@ const Slide = () => (
   <Carousel fade className="cr-dash">
     <Carousel.Item>
       <img
-        className="d-block w-100"
+        className="cr-dash d-block w-100"
         src={sil}
         alt="Aj Star"
       />
