@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/e-vech/static/css/main.4107c037.chunk.css",
-    "main.js": "/e-vech/static/js/main.10de5300.chunk.js",
-    "main.js.map": "/e-vech/static/js/main.10de5300.chunk.js.map",
+    "main.js": "/e-vech/static/js/main.f6fdfc52.chunk.js",
+    "main.js.map": "/e-vech/static/js/main.f6fdfc52.chunk.js.map",
     "runtime-main.js": "/e-vech/static/js/runtime-main.69bc9698.js",
     "runtime-main.js.map": "/e-vech/static/js/runtime-main.69bc9698.js.map",
     "static/css/2.984f751f.chunk.css": "/e-vech/static/css/2.984f751f.chunk.css",
@@ -24,7 +24,7 @@
     "static/media/phantom.315c1e12.jpg": "/e-vech/static/media/phantom.315c1e12.jpg",
     "static/media/poppy.9ee7f658.jpg": "/e-vech/static/media/poppy.9ee7f658.jpg",
     "static/media/red01.af0469ac.png": "/e-vech/static/media/red01.af0469ac.png",
-    "static/media/scr.65e32bfd.png": "/e-vech/static/media/scr.65e32bfd.png",
+    "static/media/scr.fd6ca5ad.png": "/e-vech/static/media/scr.fd6ca5ad.png",
     "static/media/silver01.1a6b3738.png": "/e-vech/static/media/silver01.1a6b3738.png"
   },
   "entrypoints": [
@@ -32,6 +32,6 @@
     "static/css/2.984f751f.chunk.css",
     "static/js/2.b5aa5b99.chunk.js",
     "static/css/main.4107c037.chunk.css",
-    "static/js/main.10de5300.chunk.js"
+    "static/js/main.f6fdfc52.chunk.js"
   ]
 }
